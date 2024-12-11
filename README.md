@@ -2,6 +2,9 @@
 
 A FastMCP-based server that provides Obsidian vault search functionality through a REST API interface.
 
+> [!attention]
+> This fork is done by claude.
+
 ## Overview
 
 This project implements a search service that allows you to search through Obsidian vault notes programmatically. It uses FastMCP to expose the search functionality as a tool that can be integrated with other services.
