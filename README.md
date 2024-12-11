@@ -12,6 +12,8 @@ This project implements a search service that allows you to search through Obsid
 - REST API integration
 - Returns absolute paths to matching notes
 - Easy integration with FastMCP tools
+- UTF-8 Compatible
+- Readable Logging can approach in MCP's logs folder
 
 ## Prerequisites
 
@@ -30,7 +32,7 @@ cd mcp-server-obsidian-omnisearch
 
 2. Install dependencies:
 ```bash
-uv install
+uv pip install
 ```
 
 ## Configuration
